@@ -4,7 +4,7 @@
 
 <h2>Contents</h2>
 IPython Notebook (.ipynb) file containing the data analysis and visualizations.
-Report (.pdf, .docx, etc.) summarizing the key findings from the analysis.
+Report (.pdf) summarizing the key findings from the analysis.
 <h2>Requirements</h2>
 To run the IPython Notebook, you will need the following software and libraries installed on your system:
 
